@@ -1,0 +1,66 @@
+{  "name" : "netintel",
+
+  "columnFamilies" : [{
+    "name" : "ipreputation",
+    "rows" : [{
+      "ipaddress" : 1094949466,
+      "columns" : [{
+        "name" : "origipaddress",
+        "value" : "11"
+      },
+        {
+          "name" : "color",
+          "value" : "red"
+        },
+        {
+          "name" : "description",
+          "value" : "beautiful sky"
+        },
+        {
+          "name" : "reason",
+          "value" : "black day"
+        },
+        {
+          "name" : "notes",
+          "value" : "black sky"
+        },
+        {
+          "name" : "origipaddress",
+          "value" : "1094949466"
+        }
+
+      ]
+    },
+      {
+        "ipaddress" : 2086866456,
+        "columns" : [{
+          "name" : "origipaddress",
+          "value" : "11"
+        },
+          {
+            "name" : "color",
+            "value" : "white"
+          },
+          {
+            "name" : "description",
+            "value" : "beautiful sky"
+          },
+          {
+            "name" : "reason",
+            "value" : "blue day"
+          },
+          {
+            "name" : "notes",
+            "value" : "yellow den"
+          },
+          {
+            "name" : "origipaddress",
+            "value" : "2086866456"
+          }
+
+        ]
+      }]
+  }]
+
+
+}
