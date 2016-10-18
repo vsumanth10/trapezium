@@ -103,7 +103,7 @@ Create an application that reads data from hdfs://my/first/trapezium/app/input a
 
 Contributions from:
 
-* Pankaj Rastogi
+* Pankaj Rastogi (@rastogipankaj)
 * Debasish Das (@debasish83)
 * Hutashan Chandrakar
 * Pramod Lakshmi Narasimha
@@ -111,3 +111,5 @@ Contributions from:
 * Faraz Waseem
 * Ken Tam
 * Ponrama Jegan
+
+And others (contact Pankaj Rastogi / Debasish Das if you've contributed code and aren't listed).
