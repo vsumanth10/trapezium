@@ -1,0 +1,8 @@
+.gitignore
+target/*
+*.iml
+./*/*.iml
+cassandra-dao/target/
+dal/target/
+framework/target/
+sparkcassandra-connector/target/
