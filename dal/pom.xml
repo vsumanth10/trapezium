@@ -5,8 +5,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.verizon.bda</groupId>
-		<artifactId>commons-parent</artifactId>
-		<version>1.0</version>
+		<artifactId>trapezium</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
         

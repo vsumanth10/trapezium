@@ -9,7 +9,7 @@ Once Trapezium jar is available in your maven repository, you can add dependency
           <dependency>
             <groupId>com.verizon.bda</groupId>
             <artifactId>trapezium</artifactId>
-            <version>1.0</version>
+            <version>1.0.0-SNAPSHOT</version>
           </dependency>
 
           <dependency>
@@ -17,7 +17,7 @@ Once Trapezium jar is available in your maven repository, you can add dependency
             <artifactId> trapezium </artifactId>
             <type>test-jar</type>
             <scope>test</scope>
-            <version>1.0</version>
+            <version>1.0.0-SNAPSHOT</version>
           </dependency>
 
 # Setting up Cluster environment variable
@@ -98,3 +98,16 @@ Create an application that reads data from hdfs://my/first/trapezium/app/input a
 	If you want to submit your job in cluster mode, environment and workflow config files must be present inside your application jar.
 
 	config is an optional command line parameter while workflow is a required one.
+
+(c) Verizon
+
+Contributions from:
+
+* Pankaj Rastogi
+* Debasish Das (@debasish83)
+* Hutashan Chandrakar
+* Pramod Lakshmi Narasimha
+* Sumanth Venkatasubbaiah
+* Faraz Waseem
+* Ken Tam
+* Ponrama Jegan
