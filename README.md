@@ -107,7 +107,7 @@ Contributions from:
 * Debasish Das (@debasish83)
 * Hutashan Chandrakar
 * Pramod Lakshmi Narasimha
-* Sumanth Venkatasubbaiah
+* Sumanth Venkatasubbaiah (@vsumanth10)
 * Faraz Waseem
 * Ken Tam
 * Ponrama Jegan
